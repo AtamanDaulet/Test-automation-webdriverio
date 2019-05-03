@@ -1,6 +1,7 @@
 node_modules
 allure-results
 allure-report
-.nyc_output
 .vscode
 .git
+.nyc_output
+.vscode
